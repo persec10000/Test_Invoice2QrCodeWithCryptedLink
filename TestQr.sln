@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestQr", "TestQr.csproj", "{A2D46F0D-8523-4608-93D1-DA52B743E44B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLServerCrypto", "SQLServerCrypto\SQLServerCrypto.csproj", "{8F5BC98F-B03D-4B2D-B08C-4774E94592BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2D46F0D-8523-4608-93D1-DA52B743E44B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2D46F0D-8523-4608-93D1-DA52B743E44B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2D46F0D-8523-4608-93D1-DA52B743E44B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2D46F0D-8523-4608-93D1-DA52B743E44B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F5BC98F-B03D-4B2D-B08C-4774E94592BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F5BC98F-B03D-4B2D-B08C-4774E94592BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F5BC98F-B03D-4B2D-B08C-4774E94592BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F5BC98F-B03D-4B2D-B08C-4774E94592BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E74696FF-3023-4DF0-91FD-8AE268DE5D37}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+E:\f_2021.3.6.POS\f_2021.6.9.qrcode\SQLServerCrypto-master\SQLServerCrypto\bin\Debug\SQLServerCrypto.dll.config
+E:\f_2021.3.6.POS\f_2021.6.9.qrcode\SQLServerCrypto-master\SQLServerCrypto\bin\Debug\SQLServerCrypto.dll
+E:\f_2021.3.6.POS\f_2021.6.9.qrcode\SQLServerCrypto-master\SQLServerCrypto\bin\Debug\SQLServerCrypto.pdb
+E:\f_2021.3.6.POS\f_2021.6.9.qrcode\SQLServerCrypto-master\SQLServerCrypto\obj\Debug\SQLServerCrypto.csprojAssemblyReference.cache
+E:\f_2021.3.6.POS\f_2021.6.9.qrcode\SQLServerCrypto-master\SQLServerCrypto\obj\Debug\SQLServerCrypto.csproj.CoreCompileInputs.cache
+E:\f_2021.3.6.POS\f_2021.6.9.qrcode\SQLServerCrypto-master\SQLServerCrypto\obj\Debug\SQLServerCrypto.dll
+E:\f_2021.3.6.POS\f_2021.6.9.qrcode\SQLServerCrypto-master\SQLServerCrypto\obj\Debug\SQLServerCrypto.pdb
+E:\f_2021.3.6.POS\f_2021.6.9.qrcode\TestQr\SQLServerCrypto\bin\Debug\SQLServerCrypto.dll.config
+E:\f_2021.3.6.POS\f_2021.6.9.qrcode\TestQr\SQLServerCrypto\bin\Debug\SQLServerCrypto.dll
+E:\f_2021.3.6.POS\f_2021.6.9.qrcode\TestQr\SQLServerCrypto\bin\Debug\SQLServerCrypto.pdb
+E:\f_2021.3.6.POS\f_2021.6.9.qrcode\TestQr\SQLServerCrypto\obj\Debug\SQLServerCrypto.csprojAssemblyReference.cache
+E:\f_2021.3.6.POS\f_2021.6.9.qrcode\TestQr\SQLServerCrypto\obj\Debug\SQLServerCrypto.csproj.CoreCompileInputs.cache
+E:\f_2021.3.6.POS\f_2021.6.9.qrcode\TestQr\SQLServerCrypto\obj\Debug\SQLServerCrypto.dll
+E:\f_2021.3.6.POS\f_2021.6.9.qrcode\TestQr\SQLServerCrypto\obj\Debug\SQLServerCrypto.pdb
